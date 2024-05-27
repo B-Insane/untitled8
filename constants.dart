@@ -1,1 +1,0 @@
-const String header = 'SMART SERVICE SYSTEM.';
